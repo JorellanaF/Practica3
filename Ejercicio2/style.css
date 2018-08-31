@@ -1,0 +1,24 @@
+table {
+    width: 800px;
+    height: 800px;
+}
+
+#impar td:nth-child(odd) {
+    background-color: black;
+}
+
+#par td:nth-child(even) {
+    background-color: black;
+}
+
+div:nth-child(odd){
+    color: blue;
+}
+
+div {
+    visibility: hidden;
+}
+
+td:hover div{
+    visibility: visible;
+}
