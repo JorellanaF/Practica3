@@ -1,6 +1,18 @@
+body {
+    background-color: rgba(1,1,1,0.1);
+}
+
 table {
-    width: 800px;
-    height: 800px;
+    width: 600px;
+    height: 600px;
+}
+
+tr {
+    height: 75px;
+}
+
+td {
+    width: 75px;
 }
 
 #impar td:nth-child(odd) {
@@ -11,14 +23,58 @@ table {
     background-color: black;
 }
 
-div:nth-child(odd){
-    color: blue;
+#impar td:nth-child(even) {
+    background-color: white;
 }
 
-div {
+#par td:nth-child(odd) {
+    background-color: white;
+}
+
+#impar td:nth-child(odd) {
+    color: white;
+}
+
+#par td:nth-child(even){
+    color: white;
+}
+
+td div {
     visibility: hidden;
+    width: 70px;
+    height: 70px;
 }
 
-td:hover div{
+td:hover div {
     visibility: visible;
+}
+
+table {
+    border: brown solid 5px;
+    box-shadow: 4px 4px rgba(1,1,1,0.5);
+}
+
+td div:hover {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: Copperplate,"Copperplate Gothic Light",fantasy;
+    display: inline;
+}
+
+.col-1 {
+    float: left;
+    width: 20%;
+}
+
+.col-2 {
+    float: left;
+    width: 20%;
+}
+
+.col-3 {
+    float: left;
+    width: 20%;
 }
