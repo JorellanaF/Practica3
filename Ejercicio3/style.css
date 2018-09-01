@@ -1,0 +1,236 @@
+#tamaños div a {
+    color: #7c716f;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#tamaños div {
+    display: inline-block;
+    border-radius: 8px;
+}
+
+.normal {
+    background: #f4f3f2;
+    font-size: 40px;
+    padding: 1em;
+}
+
+.pequeño {
+    background: #f4f3f2;
+    font-size: 25px;
+    padding: 1em;
+}
+
+.grande {
+    background: #f4f3f2;
+    font-size: 80px;
+    padding: 1em;
+}
+
+#colores div a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#colores div {
+    display: inline-block;
+    border-radius: 8px;
+}
+
+.esmeralda {
+    background: #57d68d;
+    font-size: 25px;
+    padding: 1em;
+}
+
+.cielo {
+    background: #5cace2;
+    font-size: 25px;
+    padding: 1em;
+}
+
+.amatista {
+    background: #ae7ac4;
+    font-size: 25px;
+    padding: 1em;
+}
+
+.asfalto {
+    background: #5c6d7e;
+    font-size: 25px;
+    padding: 1em;
+}
+
+.topazio {
+    background: #ea974e;
+    font-size: 25px;
+    padding: 1em;
+}
+
+.rubi {
+    background: #eb6f62;
+    font-size: 25px;
+    padding: 1em;
+}
+
+#bordeado div a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#bordeado div {
+    display: inline-block;
+    border-radius: 8px;
+}
+
+.simple {
+    background: white;
+    border: 2px solid #868686;
+    font-size: 20px;
+    padding: 1em;
+}
+
+#bordeado .esmeralda a{
+    color: #57d68d;
+}
+
+#bordeado .esmeralda {
+    border: 2px solid #57d68d;
+    background: white;
+    font-size: 20px;
+    padding: 1em;
+}
+
+#bordeado .cielo a{
+    color: #5cace2;
+    background: white;
+    font-size: 20px;
+    padding: 1em;
+}
+
+#bordeado .cielo {
+    border: 2px solid #5cace2;
+    background: white;
+    font-size: 20px;
+    padding: 1em;
+}
+
+#bordeado .amatista a{
+    color: #ae7ac4;
+    background: white;
+    font-size: 20px;
+    padding: 1em;
+}
+
+#bordeado .amatista {
+    border: 2px solid #ae7ac4;
+    background: white;
+    font-size: 20px;
+    padding: 1em;
+}
+
+#bordeado .asfalto a{
+    color: #5c6d7e;
+    background: white;
+    font-size: 20px;
+    padding: 1em;
+}
+
+#bordeado .asfalto {
+    border: 2px solid #5c6d7e;
+    background: white;
+    font-size: 20px;
+    padding: 1em;
+}
+
+#bordeado .topazio a{
+    color: #ea974e;
+    background: white;
+    font-size: 20px;
+    padding: 1em;
+}
+
+#bordeado .topazio {
+    border: 2px solid #ea974e;
+    background: white;
+    font-size: 20px;
+    padding: 1em;
+}
+
+#bordeado .rubi a{
+    color: #eb6f62;
+    background: white;
+    font-size: 20px;
+    padding: 1em;
+}
+
+#bordeado .rubi {
+    border: 2px solid #eb6f62;
+    background: white;
+    font-size: 20px;
+    padding: 1em;
+}
+
+
+#combinaciones div a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#combinaciones div {
+    display: inline-block;
+    border-radius: 8px;
+}
+
+#combinaciones .asfalto a{
+    color: white;
+    background: 5c6d7e;
+    font-size: 20px;
+    padding: 1em;
+}
+
+#combinaciones .asfalto {
+    border: 2px solid #5c6d7e;
+    font-size: 20px;
+    padding: 1em;
+}
+
+#combinaciones .cielo a{
+    color: #5cace2;
+    background: white;
+    font-size: 15px;
+    padding: 1em;
+}
+
+#combinaciones .cielo {
+    border: 2px solid #5cace2;
+    background: white;
+    font-size: 15px;
+    padding: 1em;
+}
+
+#combinaciones .esmeralda a{
+    color: white;
+    background: #57d68d;
+}
+
+#combinaciones .esmeralda {
+    border: 2px solid #57d68d;
+    font-size: 10px;
+    padding: 1em;
+}
+
+#combinaciones .rubi a{
+    color: #eb6f62;
+    background: white;
+    font-size: 20px;
+    padding: 1em;
+}
+
+#combinaciones .rubi {
+    border: 2px solid #eb6f62;
+    background: white;
+    font-size: 20px;
+    padding: 1em;
+}
