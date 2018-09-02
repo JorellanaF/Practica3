@@ -1,0 +1,31 @@
+#botones div a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+
+#botones div {
+    display: inline-block;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+
+div {
+    font-size: 30px;
+}
+
+.ejercicio-1 {
+    background: rgb(0, 153, 255, 0.575);
+    width: 30%;
+}
+
+.ejercicio-2 {
+    background: rgba(115, 255, 0, 0.575);
+    width: 30%;
+}
+
+.ejercicio-3 {
+    background: rgba(247, 0, 255, 0.575);
+    width: 30%;
+}
+
